@@ -27,9 +27,3 @@ AAS(Anti-AI-Searcher)는 **AI가 생성한 텍스트와 이미지를 감지하�
 | **Youngchan Go**   | Member      | dudcks3886@naver.com   |
 | **Chanhyuk Park**  | Member      | pch6560@gmail.com      |
 
----
-
-## 📢 Contact Us
-- **Email:** contact@passione.org
-
-🔥 **Passione와 함께 AI 필터링 기술을 발전시키세요!**
