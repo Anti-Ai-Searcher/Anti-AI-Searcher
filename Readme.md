@@ -13,13 +13,6 @@ AAS(Anti-AI-Searcher)는 **AI가 생성한 텍스트와 이미지를 감지하�
 
 ---
 
-## 🔧 Our Tech Stack
-- **Programming Languages:** Python, Rust
-- **Frameworks & Tools:** FastAPI, PyTorch, TensorFlow
-- **Infrastructure:** Linux, Docker, GitHub Actions
-
----
-
 ## 👥 Our Team
 | Name           | Role          | Email                   |
 |--------------|--------------|-------------------------|
